@@ -8,7 +8,7 @@ For example, you find out there is a subdomain named "test" that is on the same 
 
 ## How to use it
 1. Collect a list of hostnames for which you want to find out which ones have the same IP address (I recommend using Sublist3r.py)
-2. Put the hostnames int hosts.txt
+2. Put the hostnames in hosts.txt
 3. Run main.py and the result will be output to result_domain.txt
 
 ## Sample output:
