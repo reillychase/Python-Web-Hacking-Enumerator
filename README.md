@@ -13,7 +13,10 @@ For example, you find out there is a subdomain named "test" that is on the same 
 
 ## Sample output:
 +------------------+----------------+----------------+---------+
+
 | REVERSE DNS      | IP ADDRESS     | OPEN PORTS     | DOMAINS |
+
 |------------------+----------------+----------------+---------+
-|
+
+
 +------------------+----------------+----------------+---------+
